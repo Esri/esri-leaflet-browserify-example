@@ -1,0 +1,17 @@
+{
+  "name": "esri-leaflet-browserify",
+  "version": "1.0.0",
+  "description": "Example of Esri Leaflet with Browserify",
+  "main": "app.js",
+  "author": "Patrick Arlt <parlt@esri.com> (http://patrickarlt.com)",
+  "license": "Apache",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "leaflet": "^0.7.3",
+    "esri-leaflet": "0.0.1-beta.7",
+    "esri-leaflet-heatmap-feature-layer": "0.0.1-beta.1",
+    "esri-leaflet-clustered-feature-layer": "0.0.1-beta.2",
+    "leaflet.heat": "0.1.1",
+    "leaflet.markercluster": "0.4.0"
+  }
+}
